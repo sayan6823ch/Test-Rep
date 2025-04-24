@@ -20,7 +20,7 @@ class bank
         cout<<"Time:"<<tPtr->tm_hour<<"/"<<tPtr->tm_min<<"/"<<tPtr->tm_sec<<endl;
         
         cout<<"______________________________________________________________"<<endl;
-        cout<<"Enter the name of Bank Account Holder:-"<<endl;
+        cout<<"Enter the name of Bank Account Holder :-"<<endl;
         cin>>depo_name;
         cout<<"Enter your account number="<<endl;
         cin>>acc_no;
