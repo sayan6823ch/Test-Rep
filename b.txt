@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Hello Main/B
 
 Hello Main/b 2
+<<<<<<< HEAD
+
+B1/Edit
+B1A/Edit
+>>>>>>> b1A
+>>>>>>> b1
