@@ -1,0 +1,7 @@
+Hello i am Sayan
+
+<<<<<<< HEAD
+My friend is Soubhagya 
+Ishowmeat
+My enemy is KIIT 
+>>>>>>> enemy
